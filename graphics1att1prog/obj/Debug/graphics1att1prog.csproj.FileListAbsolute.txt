@@ -1,0 +1,13 @@
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\bin\Debug\graphics1att1prog.exe.config
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\bin\Debug\graphics1att1prog.exe
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\bin\Debug\graphics1att1prog.pdb
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\MainWindow.baml
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\MainWindow.g.cs
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\App.g.cs
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog_MarkupCompile.cache
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.g.resources
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.Properties.Resources.resources
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.csproj.GenerateResource.Cache
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.exe
+E:\vs2012\1progs\3dSemestr\graphics1att1prog\graphics1att1prog\obj\Debug\graphics1att1prog.pdb
